@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca7a7fff-8f6d-4bd7-9fd9-035cec2ae50c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1SMzkaeJ73IifSe6EmSV1Yhtbt6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stujunit" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.MyTestNG.test1">
+    <configuration name="MyTestNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="learn.testng" />
+      <option name="MAIN_CLASS_NAME" value="learn.testng.MyTestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTestNG.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="learn.testng" />
+      <option name="MAIN_CLASS_NAME" value="learn.testng.MyTestNG" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MyTestNG.test1" />
+        <item itemvalue="TestNG.MyTestNG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7a7fff-8f6d-4bd7-9fd9-035cec2ae50c" name="Default Changelist" comment="" />
+      <created>1571388396241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571388396241</updated>
+      <workItem from="1571388469368" duration="125000" />
+      <workItem from="1571388615511" duration="25000" />
+      <workItem from="1571396101342" duration="301000" />
+      <workItem from="1571643005942" duration="236000" />
+      <workItem from="1571726441042" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
