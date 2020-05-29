@@ -2,7 +2,11 @@ package LIkou;
 
 public class LIkou {
     public static void main(String[] args) {
-        jiafa(new int[]{2,7,11,15},9);
+        //jiafa(new int[]{2,7,11,15},9);
+        int a =1;
+        int b =2;
+        int c=3;
+        System.out.println(a<c?b:c);
 
         }
         public static void jiafa(int[] a,int b){

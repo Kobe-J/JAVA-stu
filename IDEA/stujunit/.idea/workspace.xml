@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f7949e7-2a48-4ecb-acd5-b32288fbdcf0" name="Default Changelist" comment="" />
+    <list default="true" id="1f7949e7-2a48-4ecb-acd5-b32288fbdcf0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/IDEA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ja/fuxi/DataStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/LIkou/LIkou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/LIkou/LIkou.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LIkou/LIkou.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LIkou/LIkou.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/com/stu/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/com/stu/jk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/com/stu/kj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/stu/com/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/stu/com/jk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/stu/com/kj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,30 +39,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1UESbgLCV9frgQkWbrB2r8UhCSw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="ignore.preview.features.used" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -52,7 +77,20 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Application.demo">
+  <component name="RunManager" selected="Application.DataStructure">
+    <configuration name="DataStructure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ja.fuxi.DataStructure" />
+      <module name="stujunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ja.fuxi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LIkou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LIkou.LIkou" />
       <module name="stujunit" />
@@ -96,19 +134,6 @@
     <configuration name="duotai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ja.fuxi.duotai" />
       <module name="stujunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ja.fuxi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fuxi1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ja.fuxi.fuxi1" />
-      <module name="stu-junit" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ja.fuxi.*" />
@@ -198,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataStructure" />
+        <item itemvalue="Application.LIkou" />
         <item itemvalue="Application.duotai" />
         <item itemvalue="JUnit.test" />
-        <item itemvalue="Application.LIkou" />
         <item itemvalue="Application.case_01" />
-        <item itemvalue="Application.fuxi1" />
       </list>
     </recent_temporary>
   </component>
@@ -222,11 +247,16 @@
       <workItem from="1584496320885" duration="3062000" />
       <workItem from="1584519808088" duration="92000" />
       <workItem from="1584520038898" duration="640000" />
+      <workItem from="1589946915449" duration="8575000" />
+      <workItem from="1590024851847" duration="1209000" />
+      <workItem from="1590112632175" duration="2761000" />
+      <workItem from="1590474853848" duration="1372000" />
+      <workItem from="1590721014859" duration="2352000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584496588667">
@@ -249,26 +279,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="352" y="0" width="611" height="680" key="#demo/0.0.1280.680@0.0.1280.680" timestamp="1584498893528" />
-    <state x="420" y="82" key="FileChooserDialogImpl" timestamp="1584519877769">
+    <state x="420" y="82" key="FileChooserDialogImpl" timestamp="1590117714054">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="420" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584519877769" />
-    <state width="1237" height="333" key="GridCell.Tab.0.bottom" timestamp="1584521071310">
+    <state x="420" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590117714054" />
+    <state width="618" height="183" key="GridCell.Tab.0.bottom" timestamp="1589969380502">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="333" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584521071310" />
-    <state width="1237" height="333" key="GridCell.Tab.0.center" timestamp="1584521071310">
+    <state width="618" height="183" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589969380502" />
+    <state width="618" height="183" key="GridCell.Tab.0.center" timestamp="1589969380502">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="333" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584521071310" />
-    <state width="1237" height="333" key="GridCell.Tab.0.left" timestamp="1584521071310">
+    <state width="618" height="183" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589969380502" />
+    <state width="618" height="183" key="GridCell.Tab.0.left" timestamp="1589969380502">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="333" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584521071310" />
-    <state width="1237" height="333" key="GridCell.Tab.0.right" timestamp="1584521071310">
+    <state width="618" height="183" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589969380502" />
+    <state width="618" height="183" key="GridCell.Tab.0.right" timestamp="1589969380502">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="333" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584521071310" />
+    <state width="618" height="183" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589969380502" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1584442431875">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

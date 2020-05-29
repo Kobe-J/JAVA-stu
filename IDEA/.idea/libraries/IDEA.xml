@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="IDEA">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/MyTestNG/src/main/java" />
+      <root url="file://$PROJECT_DIR$/springbootDemo/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/springbootDemo/src/main/java" />
+      <root url="file://$PROJECT_DIR$/springbootDemo/src/test/java" />
+      <root url="file://$PROJECT_DIR$/stujunit/src/main" />
+    </SOURCES>
+  </library>
+</component>
